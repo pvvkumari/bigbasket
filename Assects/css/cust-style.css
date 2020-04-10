@@ -24,7 +24,7 @@
 .about_summary {
     border-left: 1px solid #dbdbdb;
 }
-.about_summary p {
+.about_summary-para {
     font-size: 15px;
 }
 .about_uparrow {
@@ -39,6 +39,19 @@
     font-size: 18px;
 }
 
+.img-logos {
+    width: 54px;
+    height: 33px;
+}
+.payment-coupons {
+    background-image: linear-gradient(white, #eaeaea);
+}
+.timesslots-linear{
+    background-image: linear-gradient(#eaeaea, white);
+}
+.timings-para {
+    font-size: 10px;
+}
 /* footer */
 .footer h6{
     color: #84c225;
