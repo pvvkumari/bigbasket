@@ -1,0 +1,91 @@
+.site-message {
+    background-color: #efedbe;
+    box-shadow: 1px 1px 7px #676767;
+    /* font-size: 14px; */
+}
+.site-message h6 {
+    font-size: 14px;
+}
+.addresswidget {
+    display: flex;
+}
+.logo img{
+    width: 200px;
+    height: 75px;
+    margin-top: 15px;
+}
+.details {
+    width: 100%;
+}
+.fa-map-marker {
+    margin-right: 10px;
+}
+.fa-angle-down {
+    margin-left: 8px;
+}
+.fa-user {
+    margin-right: 5px;
+}
+.search-bar {
+    border: 1px solid #84c225;
+}
+#basic-text1 {
+    /* padding: 5px; */
+    font-size: 20px;
+    color: white;
+    background-color: #84c225;
+}
+.bg-clr {
+    background-color: #f2f2f2;
+    padding-top: 10px;
+}
+.fa-shopping-basket {
+    color: #da251d;
+    font-size: 25px;
+}
+.category-items {
+    background-color: #84c225;
+    color: white;
+}
+.category-items ul li a {
+    color: white;
+    text-decoration: none;
+}
+.category-icon {
+    font-size: 25px;
+}
+.fa-tag {
+    color: #da251d;
+}
+/* footer */
+.footer h6{
+    color: #84c225;
+}
+.copyright {
+    background-color: #eaeaea;
+}
+.copyright_footer p {
+    padding: 8px 0px 0px 20px;
+    color: gray;
+}
+/* nav */
+/* change the color of active or hovered links */
+.navbar-custom .nav-item.active .nav-link,
+.navbar-custom .nav-item:hover .nav-link {
+    color: #ffffff;
+    background-color: #84c225; /*add background-color to active links*/
+}
+
+
+/* change the link color */
+.navbar-custom .navbar-nav .nav-link {
+    color: black;
+}
+
+/* change the color of active or hovered links */
+.navbar-custom .nav-item.active .nav-link,
+.navbar-custom .nav-item:hover .nav-link {
+    color: #ffffff;
+}
+
+

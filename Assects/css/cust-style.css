@@ -1,0 +1,52 @@
+/* About us */
+.back-clr {
+    background-color: #f3f3f3;
+}
+
+.backg-clr {
+    background-color: #fff;
+}
+
+.v-header {
+    padding: 13px 20px 13px;
+}
+.v-header a{
+    font-size: 10px;
+    color: black;
+}
+.about-nav-link {
+    color: #096;
+    background-color: #E9F0DA;
+}
+.nav-link-data {
+    color: black;
+}
+.about_summary {
+    border-left: 1px solid #dbdbdb;
+}
+.about_summary p {
+    font-size: 15px;
+}
+.about_uparrow {
+    color: black;
+    font-size: 11px;
+}
+.aboutus-order_summary {
+    display: flex;
+    justify-content: space-around;
+}
+.order-size h6{
+    font-size: 18px;
+}
+
+/* footer */
+.footer h6{
+    color: #84c225;
+}
+.copyright {
+    background-color: #eaeaea;
+}
+.copyright_footer p {
+    padding: 8px 0px 0px 20px;
+    color: gray;
+}
